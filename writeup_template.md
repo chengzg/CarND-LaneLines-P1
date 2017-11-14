@@ -54,5 +54,5 @@ The potential problems could be:
 
 Possible improvements would be to ...
 
-    1. start from 30 and 150 degree, based on the calculated slope value for each frame, we can adjust these two value to get closer to the acutally lane slope. So that we can filter out more detected noisy lines 
+    1. start from 30 and 150 degree, based on the calculated lane slope value for each frame, we can adjust these two value to get closer to the acutally lane slope. So that we can filter out more detected noisy lines 
     2. Similarly, based on the left/right average line found for each frame, we can refine the region of interested to get closer to the actual lanes so that we furthur reduce the deteced noise lines
